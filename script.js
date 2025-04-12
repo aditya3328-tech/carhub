@@ -15,3 +15,6 @@ const observer = new IntersectionObserver(entries => {
 cards.forEach(card => {
   observer.observe(card);
 });
+function loadNewPage() {
+  window.location.href = '#page2'; // Replace with your file name
+}

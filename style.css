@@ -31,16 +31,16 @@ body {
     background: black;
 }
 #nav img{
-    height: 60%;
+    height: 60px;
     transform: translate(-50%,);
-    width: fit-content;
+    width: 60px;
 }
 #nav-part1{
     display: flex;
     gap: 2vw;
 }
 #nav-part1 a{
-    font-size: 12px;
+    font-size: 14px;
     text-decoration: none;
     color: white;
     font-family: 'montserrat', sans-serif;
@@ -785,7 +785,7 @@ h1 {
     transform: scale(1.05);
   }
   #nav-part1 a{
-    font-size: 12px;
+    font-size: 10px;
     font-family:  monospace;
   }
   #page1 h1{
